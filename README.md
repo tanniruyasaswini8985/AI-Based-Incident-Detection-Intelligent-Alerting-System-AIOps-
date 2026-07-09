@@ -52,3 +52,24 @@ The system uses metrics like:
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## 📸 Project Output
+
+Below is a sample output of the system:
+
+![Output Screenshot](Output.png)
+
+## ✅ Sample Output
+
+Loading data...
+Detecting anomalies...
+Generating alerts...
+
+===== SUMMARY =====
+Total Records: 10
+Anomalies Detected: 3
+
+===== ALERTS =====
+[ALERT] High resource usage detected at 2024-01-01 10:15
+[ALERT] High resource usage detected at 2024-01-01 10:20
+[ALERT] High resource usage detected at 2024-01-01 10:35
