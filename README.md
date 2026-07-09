@@ -50,8 +50,13 @@ The system uses metrics like:
 ## ⚙️ Run the Project
 
 ```bash
-pip install -r requirements.txt
+# Install project dependencies
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+# Run the application
 python main.py
+```
 
 ## 📸 Project Output
 
