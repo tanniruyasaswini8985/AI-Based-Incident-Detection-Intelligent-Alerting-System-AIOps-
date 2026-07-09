@@ -73,3 +73,5 @@ Anomalies Detected: 3
 [ALERT] High resource usage detected at 2024-01-01 10:15
 [ALERT] High resource usage detected at 2024-01-01 10:20
 [ALERT] High resource usage detected at 2024-01-01 10:35
+
+This output demonstrates anomaly detection using AIOps principles.
