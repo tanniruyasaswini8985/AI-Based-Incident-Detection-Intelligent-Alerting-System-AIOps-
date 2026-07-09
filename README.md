@@ -61,17 +61,18 @@ Below is a sample output of the system:
 
 ## ✅ Sample Output
 
-Loading data...
-Detecting anomalies...
-Generating alerts...
+🔍 Loading data...
+🤖 Detecting anomalies...
+🚨 Generating alerts...
 
 ===== SUMMARY =====
 Total Records: 10
-Anomalies Detected: 3
+Anomalies Detected: 2
 
 ===== ALERTS =====
-[ALERT] High resource usage detected at 2024-01-01 10:15
-[ALERT] High resource usage detected at 2024-01-01 10:20
-[ALERT] High resource usage detected at 2024-01-01 10:35
+[ALERT] High resource usage detected at 2024-01-01 10:15:00 (CPU: 90%, Memory: 85%)
+[ALERT] High resource usage detected at 2024-01-01 10:35:00 (CPU: 95%, Memory: 90%)
+
+✅ Process completed successfully!
 
 This output demonstrates anomaly detection using AIOps principles.
